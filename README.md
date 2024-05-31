@@ -1,4 +1,4 @@
-# 🛠 Tech Stack Suggerita
+# 🛠 Tech Stack
 
 Questo documento descrive la tech stack raccomandata per lo sviluppo di applicazioni web e mobile moderne e reattive. La stack è stata selezionata per massimizzare la riutilizzazione del codice, garantire coerenza e offrire prestazioni elevate.
 
