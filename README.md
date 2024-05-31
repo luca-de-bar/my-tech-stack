@@ -4,8 +4,8 @@ Questo documento descrive la tech stack raccomandata per lo sviluppo di applicaz
 
 ## 🌐 Frontend
 
-- **React con TypeScript**  
-  L'utilizzo di **TypeScript** con React migliora la gestione del codice, rendendo l'applicazione più facile da mantenere e meno soggetta a errori di runtime. TypeScript aiuta anche a gestire componenti e props in modo più sicuro e prevedibile.
+- **React con Next.js**  
+  L'adozione di **Next.js** con React non solo mantiene i vantaggi della tipizzazione di TypeScript, ma arricchisce anche l'applicazione con funzionalità come il rendering lato server e la generazione di siti statici. Questo framework ottimizza le prestazioni, migliora l'indicizzazione SEO e facilita la creazione di pagine web dinamiche ad alta velocità.
 
 ## ⚙️ Backend
 
