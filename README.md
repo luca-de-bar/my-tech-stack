@@ -28,7 +28,7 @@ Questo documento descrive la tech stack raccomandata per lo sviluppo di applicaz
 ## 🐳 Docker
 
 - **Docker**  
-  Utilizzato per containerizzare le applicazioni, assicurando che funzionino uniformemente in vari ambienti di sviluppo e produzione. Docker è fondamentale per garantire che l'intera stack funzioni in modo coerente da un ambiente all'altro.
+  Docker è essenziale per garantire la coerenza tra gli ambienti di sviluppo, test e produzione, eliminando il classico problema "funziona sul mio computer" grazie alla containerizzazione. Questo strumento facilita anche il deployment e la scalabilità delle applicazioni, permettendo di distribuire rapidamente in qualsiasi ambiente con la stessa configurazione e dipendenze.
 
 ## 📈 Vantaggi di questa Stack
 
