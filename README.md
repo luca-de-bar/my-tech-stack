@@ -6,11 +6,17 @@ Questo documento descrive la tech stack raccomandata per lo sviluppo di applicaz
 
 - **React con Next.js**  
   L'adozione di **Next.js** con React non solo mantiene i vantaggi della tipizzazione di TypeScript, ma arricchisce anche l'applicazione con funzionalità come il rendering lato server e la generazione di siti statici. Questo framework ottimizza le prestazioni, migliora l'indicizzazione SEO e facilita la creazione di pagine web dinamiche ad alta velocità.
+  
+- **Redux**  
+  Per la gestione dello stato dell'applicazione, **Redux** offre una soluzione scalabile e manutenibile, particolarmente utile per le applicazioni di grandi dimensioni.
 
 ## ⚙️ Backend
 
 - **Java con Spring Boot**  
   Questa combinazione offre un robusto sistema per costruire il backend. Spring Boot semplifica la configurazione e il deployment delle applicazioni Java, integrandosi bene sia con **MySQL** che con **MongoDB**, a seconda delle tue esigenze di persistenza dei dati.
+
+- **Spring Data JPA**  
+  **Spring Data JPA** semplifica notevolmente le interazioni con il database, fornendo un'astrazione di alto livello sopra JPA (Java Persistence API) e facilitando lo sviluppo di repository.
 
 ## 📦 Database
 
